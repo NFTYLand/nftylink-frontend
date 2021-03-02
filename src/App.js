@@ -6,6 +6,7 @@ import {
   Link
 } from "react-router-dom";
 import './css/App.css';
+import NFTYLink from "./components/NFTYLink.js"
 
 export default function App() {
   return (
